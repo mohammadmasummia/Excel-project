@@ -1,1 +1,2 @@
 # Excel-project
+The objective of this project is to analyze sales data from a retail company and provide actionable insights to improve business performance. The dataset includes information such as sales revenue, product categories, customer demographics, and sales channels. The project will involve cleaning and organizing the data, performing various analyses, and creating visualizations to communicate findings effectively.
